@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This report explores key factors impacting used car prices and provides data-backed recommendations for optimizing used car inventory. Our analysis was based on a dataset from Kaggle encompassing information on 426K used cars, the analysis was further refined using multiple statistical models to determine what factors make a car more or less expensive.
+This report explores key factors impacting used car prices and provides data-backed recommendations for optimizing used car inventory. The analysis was based on a dataset from Kaggle encompassing information on 426K used cars. Multiple statistical models were considered to determine what factors make a car more or less expensive.
 
 ## Key Findings:
 
