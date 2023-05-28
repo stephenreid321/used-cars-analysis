@@ -16,7 +16,7 @@ This report explores key factors impacting used car prices and provides data-bac
 ## Recommendations
 
 1. Maintain a diverse range of high-quality car brands in your inventory, particularly those from manufacturers like Porsche and Rover.
-2. Prioritize cars in 'like new' condition and perform repairs and cleaning to boost the condition of cars in less good condition
+2. Prioritize cars in 'like new' condition and perform repairs and cleaning to boost the condition of cars in less good condition.
 3. Keep a balance of popular fuel types (diesel, gas, hybrid and electric), especially diesel cars.
 4. Incorporate a diverse range of trucks in the inventory.
 5. Prioritize sourcing cars with lower odometer readings.
