@@ -4,7 +4,7 @@
 
 This report explores key factors impacting used car prices and provides data-backed recommendations for optimizing used car inventory. Our analysis was based on a dataset from Kaggle encompassing information on 426K used cars, the analysis was further refined using multiple statistical models to determine what factors make a car more or less expensive.
 
-## Key Findings:
+## Key Findings:
 
 1. High-Quality Manufacturers: The brand of the car significantly influences its resale value. In particular, high-quality manufacturers like Porsche and Rover consistently demand higher prices in the used car market. Therefore, stocking up on these brands may prove beneficial.
 2. Preferred Fuel Types: Diesel cars appeared to be favored by consumers. This could be due to their superior fuel efficiency and reliability. However, cars with unconventional fuel types, other than gas, diesel, hybrid, and electric, were less popular. Ensuring a diverse inventory of popular fuel types may help attract a broader customer base.
@@ -26,4 +26,4 @@ This report explores key factors impacting used car prices and provides data-bac
 
 Insights gathered from analyzing large datasets can inform strategic decisions, helping used car dealers optimize their inventories to align with consumer preferences. This, in turn, can maximize profitability and improve customer satisfaction. Regular data analysis should be a part of your strategic planning to stay aligned with shifting market trends.
 
-Please find the full analysis in [analysis.ipynb]
+Please find the full analysis in [analysis.ipynb](analysis.ipynb)
